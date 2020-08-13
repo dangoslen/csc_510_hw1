@@ -3,9 +3,13 @@
 [![Build Status](https://travis-ci.org/dangoslen/csc_510_hw1.svg?branch=master)](https://travis-ci.org/dangoslen/csc_510_hw1)
 
 This project is simply a way to learn about how to create a good repository. It has
+* Code
+* Data
 * Tests
 * CI
+* CITATION (ZENODO for creating DOI)
 * `README.md` files
+* Requirements.txt 
 * `CONTRIBUTING.md`
 * `__init__.py`
 * `code.py`
