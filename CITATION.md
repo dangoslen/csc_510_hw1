@@ -1,1 +1,1 @@
-Cite the code: https://zenodo.org/badge/285840693.svg)](https://zenodo.org/badge/latestdoi/285840693)
+Cite the code: [![DOI](https://zenodo.org/badge/285840693.svg)](https://zenodo.org/badge/latestdoi/285840693)
