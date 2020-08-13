@@ -7,8 +7,8 @@ This project is simply a way to learn about how to create a good repository. It 
 * CI
 * `README.md` files
 * `CONTRIBUTING.md`
-* __init__.py
-* code.py
+* `__init__.py`
+* `code.py`
 * and so forth
 
 ## Building
