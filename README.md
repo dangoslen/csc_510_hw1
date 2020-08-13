@@ -7,6 +7,8 @@ This project is simply a way to learn about how to create a good repository. It 
 * CI
 * `README.md` files
 * `CONTRIBUTING.md`
+* __init__.py
+* code.py
 * and so forth
 
 ## Building
@@ -17,3 +19,6 @@ Once you have this, run the following
 ```
 python3 setup.py install
 ```
+## About the code
+
+The code checks whether the given number is an Armstrong number or not.
