@@ -1,1 +1,2 @@
 pytest==6.0.1
+numpy==1.19.1 #for sample due to mention in setup.py
