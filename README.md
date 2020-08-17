@@ -10,7 +10,7 @@ This project is simply a way to learn about how to create a good repository. It 
 * CITATION (ZENODO for creating DOI)
 * `README.md` files
 * Requirements.txt 
-* `CONTRIBUTING.md`
+* [Contributing Guidelines](CONTRIBUTING.md)
 * `__init__.py`
 * `code.py`
 * and so forth
@@ -26,3 +26,7 @@ python3 setup.py install
 ## About the code
 
 The code checks whether the given number is an Armstrong number or not.
+
+## Making Contributions
+
+Please ensure you are abiding by our [Code of Conduct](CODE-OF-CONDUCT.md) when making contributions to this repository.

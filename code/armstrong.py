@@ -18,9 +18,9 @@ def armstrong(number):
         return False
 
 
-def main():
-    number = int(input("Enter the number you want to check for armstrong number: "))
-    print(armstrong(number))
+# def main():
+#     number = int(input("Enter the number you want to check for armstrong number: "))
+#     print(armstrong(number))
 
-if __name__ == "__main__":
-    main()
+# if __name__ == "__main__":
+#     main()
