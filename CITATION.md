@@ -11,7 +11,7 @@ August, 2020
 ```bibtex
 @article{ygangwa:HW1,
   title     = {HW1: Creating a Repository},
-  DOI       = {[![DOI](https://zenodo.org/badge/285840693.svg)](https://zenodo.org/badge/latestdoi/285840693)}, 
+  DOI       = {10.5281/zenodo.3987300}, 
   author    = {Dan Goslen, Tirth Patel, Harsh Kachhadia, Caitlin Smith, Yash Gangwar}, 
   publisher = {Zenodo}, 
   year      = {2020}, 
